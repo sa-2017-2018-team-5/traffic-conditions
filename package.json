@@ -1,0 +1,19 @@
+{
+  "name": "traffic-conditions",
+  "version": "1.0.0",
+  "description": "Provide informations on the traffic (mock)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Fly, you fools!\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sa-2017-2018-team-5/traffic-conditions.git"
+  },
+  "author": "Gning Khadim <khadim.gning@yahoo.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sa-2017-2018-team-5/traffic-conditions/issues"
+  },
+  "homepage": "https://github.com/sa-2017-2018-team-5/traffic-conditions#readme"
+}
