@@ -1,5 +1,7 @@
 # Traffic conditions
 
+[![Build status](https://travis-ci.org/sa-2017-2018-team-5/priority-rules-system.svg?branch=master)](https://travis-ci.org/sa-2017-2018-team-5/traffic-conditions)
+
 Project of Software Architecture @ Polytech Nice
 
 ## Purpose
