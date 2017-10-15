@@ -2,7 +2,7 @@
   "name": "traffic-conditions",
   "version": "1.0.0",
   "description": "Provide informations on the traffic (mock)",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Fly, you fools!\" && exit 1"
   },
