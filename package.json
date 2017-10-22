@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sa-2017-2018-team-5/traffic-conditions/issues"
   },
-  "homepage": "https://github.com/sa-2017-2018-team-5/traffic-conditions#readme"
+  "homepage": "https://github.com/sa-2017-2018-team-5/traffic-conditions#readme",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1"
+  }
 }
