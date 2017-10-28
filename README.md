@@ -38,8 +38,8 @@ answer with a traffic status corresponding to this id (free if the id is even, j
 <pre>
   <code>
     //Request URL
-    http://localhost:9090/traffic-api/road/2
-    
+    http://localhost:9090/traffic-api/road/section=2
+    endpoint
     // JSON response
     {
       "road_id": "2",

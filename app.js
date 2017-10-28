@@ -20,9 +20,9 @@ router.get('/', function(req, res) {
     res.json({ message: 'Welcome to the traffic api!' });
 });
 
-router.route('/road/:road_id')
+router.route('/road/section=:road_id')
     // get the traffic info of the road with id road_id
-    // (accessed at GET http://localhost:8080/traffic-api/road/:road_id)
+    // (accessed at GET http://localhost:8080/traffic-api/road/section=road_id)
     .get(function(req, res) {
         if(req.params.road_id % 2 === 0)
             res.json({road_id: req.params.road_id, status: "FREE"})
