@@ -10,7 +10,7 @@ env:
 services:
 - docker
 
-after_script
+after_script:
 - "./build.sh"
 - docker login --username $DOCKER_USER --password $DOCKER_PASS
 - "./publish.sh"
