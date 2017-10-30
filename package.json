@@ -4,7 +4,8 @@
   "description": "Provide informations on the traffic (mock)",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Fly, you fools!\" && exit 0"
+      "test": "echo \"Fly, you fools!\" && exit 0",
+	  "start": "node app.js"
   },
   "repository": {
     "type": "git",
